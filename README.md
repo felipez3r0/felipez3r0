@@ -1,4 +1,5 @@
 ## Hi there, I'm @Felipez3r0 👋
+<img src="https://raw.githubusercontent.com/felipez3r0/felipez3r0/master/assets/github-profile.png">
 
 ### :computer: Social Media
 [<img src="https://raw.githubusercontent.com/felipez3r0/felipez3r0/master/assets/twitch-brands.svg" width="40">](https://twitch.tv/felipez3r0) 
